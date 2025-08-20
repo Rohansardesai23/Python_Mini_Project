@@ -1,13 +1,14 @@
-🤖 PyCal – Python Calculator
-
+## 🤖 PyCal – Python Calculator
+---
 PyCal is a simple Python-based calculator with two modes:
 
 Two Number Input – Perform operations between two fixed numbers.
 
 Multiple Number Input – Enter full mathematical expressions and evaluate them.
 
-🚀 Features
-🔹 Option A – Two Number Input
+### 🚀 Features
+
+## 🔹 Option A – Two Number Input
 
 Input two numbers once and perform different operations repeatedly.
 
@@ -27,7 +28,7 @@ Exponentiation (a ** b)
 
 Equality Check (a == b)
 
-🔹 Option B – Multiple Number Input
+## 🔹 Option B – Multiple Number Input
 
 Enter any mathematical expression in one line (e.g., 5 + 2 * 3 - 1).
 
@@ -47,7 +48,8 @@ Supported operators:
 
 // (Floor Division)
 
-🖥️ Usage
+
+### 🖥️ Usage
 
 Run the script:
 python pycal.py
@@ -62,7 +64,7 @@ Follow the on-screen instructions.
 
 Type exit anytime to quit the calculator.
 
-⚠️ Notes
+### ⚠️ Notes
 
 In Option A, division by zero is handled with an error message.
 
@@ -72,8 +74,8 @@ Only use safe numeric expressions to avoid errors.
 
 Works with Python 3.10+ (because of the match-case syntax).
 
-📸 Example Run
-###   🤖Welcome To PyCal🤖   ###
+### 📸 Example Run
+🤖Welcome To PyCal🤖  
 
 	Menu📱
 
@@ -107,10 +109,10 @@ You chose Addition
 It adds two numbers.
 Result: 15
 
-📌 Requirements
+### 📌 Requirements
 
 Python 3.10 or higher
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Developed by Rohan Sardesai
